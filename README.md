@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Microsoft365DSC/d7a57d6b-4134-4a97-a992-a38810c23798/191cf2f4-2954-48e8-8c5b-60e3f8cc00ef/_apis/work/boardbadge/b7098834-3b32-4ea2-9352-2fad27c52eda)](https://dev.azure.com/Microsoft365DSC/d7a57d6b-4134-4a97-a992-a38810c23798/_boards/board/t/191cf2f4-2954-48e8-8c5b-60e3f8cc00ef/Microsoft.RequirementCategory)
 # Microsoft365DSC
 
 This module allows organizations to automate the deployment,
